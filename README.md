@@ -1,3 +1,3 @@
 # Premchand Thurvas
 
-Product Development | C# | .Net | Angular | TypeScript | REST | PowerShell | MongoDB | MS SQL | Active Directory | Azure AD | LDAP | MS Exchange (On-prem/Online/Hybrid)
+Product Development | C# | .Net | Angular | TypeScript | REST | PowerShell | MongoDB | MSSQL | Active Directory | Microsoft Entra ID | LDAP | MS Exchange (Hybrid)
